@@ -91,6 +91,9 @@ document.body.appendChild(scrollBtn);
 ---
 
 ## 4. 사용한 조건부 스타일 / theme 적용 방식
+```css
 li.className = todo.completed ? 'completed' : '';
+```
+
 - 완료된 항목에 `.completed` 클래스를 부여해 완료 표시 스타일을 적용
 - styled-components의 `props` 기반 조건부 스타일과 비슷하게 동작
