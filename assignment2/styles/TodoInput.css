@@ -1,0 +1,13 @@
+#todo-input {
+    margin-bottom: 20px;
+}
+
+#new-todo {
+    padding: 8px;
+    width: 200px;
+}
+
+#add-btn {
+    padding: 8px 12px;
+    margin-left: 5px;
+}
